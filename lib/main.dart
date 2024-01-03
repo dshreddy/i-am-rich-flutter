@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(
     MaterialApp(
+      title: "I Am Rich",
       home: Scaffold(
         appBar: AppBar(
           title: const Text("I AM RICH"),
